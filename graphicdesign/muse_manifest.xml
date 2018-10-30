@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1540865219630">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1540865765897">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="216279798" ref="bob-katter:about:index:10"/>
-    <file name="bob-katter.css" crc="4148543987" ref="bob-katter"/>
-    <file name="about.css" crc="4197874227" ref="about"/>
-    <file name="index.css" crc="4148543987" ref="index"/>
-    <file name="10.css" crc="4148543987" ref="10"/>
+    <file name="bob-katter.css" crc="190730021" ref="bob-katter"/>
+    <file name="about.css" crc="150569094" ref="about"/>
+    <file name="index.css" crc="190730021" ref="index"/>
+    <file name="10.css" crc="190730021" ref="10"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:10:bob-katter"/>
@@ -22,8 +22,8 @@
     <file name="form_process.php" crc="37464564" ref="about"/>
     <file name="form-u447.php" crc="235653552" ref="about"/>
   </folder>
-  <file name="index.html" crc="3763690871" seo="true" mt="1540865203812" redirect="true"/>
-  <file name="about.html" crc="481547834" seo="true" mt="1540865167382" redirect="true"/>
-  <file name="10.html" crc="288249492" seo="true" mt="1540865167382" redirect="true"/>
-  <file name="bob-katter.html" crc="4163582663" seo="true" mt="1540865167382" redirect="true"/>
+  <file name="index.html" crc="3979849665" seo="true" mt="1540865760772" redirect="true"/>
+  <file name="about.html" crc="16887959" seo="true" mt="1540865760772" redirect="true"/>
+  <file name="10.html" crc="3970046179" seo="true" mt="1540865760772" redirect="true"/>
+  <file name="bob-katter.html" crc="199596739" seo="true" mt="1540865760772" redirect="true"/>
 </manifest>
