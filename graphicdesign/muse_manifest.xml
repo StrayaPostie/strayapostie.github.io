@@ -1,0 +1,29 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1540864797700">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3955048769" ref="bob-katter:about:index:10"/>
+    <file name="bob-katter.css" crc="3980462044" ref="bob-katter"/>
+    <file name="about.css" crc="232906801" ref="about"/>
+    <file name="index.css" crc="206290256" ref="index"/>
+    <file name="10.css" crc="3980462044" ref="10"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:10:bob-katter"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:10:bob-katter"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:10:bob-katter"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about:10:bob-katter"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:10:bob-katter"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:10:bob-katter"/>
+    <file name="require.js" crc="7928878" ref="index:about:10:bob-katter"/>
+    <file name="webpro.js" crc="4059564322" ref="about"/>
+    <file name="form_check.php" crc="4020933626" ref="about"/>
+    <file name="form_throttle.php" crc="4259590256" ref="about"/>
+    <file name="form_process.php" crc="37464564" ref="about"/>
+    <file name="form-u447.php" crc="235653552" ref="about"/>
+  </folder>
+  <file name="index.html" crc="4093436023" seo="true" mt="1540863814315" redirect="true"/>
+  <file name="about.html" crc="4293444842" seo="true" mt="1540864263408" redirect="true"/>
+  <file name="10.html" crc="80968161" seo="true" mt="1540863874489" redirect="true"/>
+  <file name="bob-katter.html" crc="294779353" seo="true" mt="1540863891435" redirect="true"/>
+</manifest>
