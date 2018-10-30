@@ -1,28 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1540866073323">
-  <folder name="images">
-    <file name="off.png" crc="4137614313" ref="bob-katter">
-      <caption webpage="bob-katter" alt=""/>
-    </file>
-    <file name="unavailable.png" crc="4136258698" ref="bob-katter">
-      <caption webpage="bob-katter" alt=""/>
-    </file>
-    <file name="off_rollover.png" crc="125515327" ref="bob-katter">
-      <caption webpage="bob-katter" alt=""/>
-    </file>
-    <file name="off_mousedown.png" crc="4137614313" ref="bob-katter">
-      <caption webpage="bob-katter" alt=""/>
-    </file>
-    <file name="on-u693-on-fr.png" crc="3857947631" ref="bob-katter"/>
-    <file name="on_rollover-u693-on-r-fr.png" crc="4119381415" ref="bob-katter"/>
-    <file name="on_mousedown-u693-on-m-fr.png" crc="3857947631" ref="bob-katter"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1540866755178">
+  <folder name="images"/>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3931992660" ref="bob-katter:about:index:10"/>
-    <file name="bob-katter.css" crc="3963986399" ref="bob-katter"/>
-    <file name="about.css" crc="4155094523" ref="about"/>
-    <file name="index.css" crc="3800973880" ref="index"/>
-    <file name="10.css" crc="3800973880" ref="10"/>
+    <file name="master_a-master.css" crc="225321120" ref="bob-katter:about:index:10"/>
+    <file name="bob-katter.css" crc="3761023952" ref="bob-katter"/>
+    <file name="about.css" crc="4246032408" ref="about"/>
+    <file name="index.css" crc="3761023952" ref="index"/>
+    <file name="10.css" crc="3761023952" ref="10"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:10:bob-katter"/>
@@ -33,10 +17,9 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:about:10:bob-katter"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:10:bob-katter"/>
     <file name="require.js" crc="7928878" ref="index:about:10:bob-katter"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="bob-katter"/>
   </folder>
-  <file name="index.html" crc="4113482032" seo="true" mt="1540865945262" redirect="true"/>
-  <file name="about.html" crc="3849967222" seo="true" mt="1540865945262" redirect="true"/>
-  <file name="10.html" crc="4094846546" seo="true" mt="1540865945262" redirect="true"/>
-  <file name="bob-katter.html" crc="510567751" seo="true" mt="1540866068821" redirect="true"/>
+  <file name="index.html" crc="4033805506" seo="true" mt="1540866747612" redirect="true"/>
+  <file name="about.html" crc="4110273376" seo="true" mt="1540866747612" redirect="true"/>
+  <file name="10.html" crc="4028964159" seo="true" mt="1540866747612" redirect="true"/>
+  <file name="bob-katter.html" crc="447067882" seo="true" mt="1540866747612" redirect="true"/>
 </manifest>
