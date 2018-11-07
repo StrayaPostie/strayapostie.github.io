@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541633022495">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541634029918">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3918048718" ref="index:bob-katter:10:about"/>
-    <file name="index.css" crc="4274467150" ref="index"/>
+    <file name="index.css" crc="4223532814" ref="index"/>
     <file name="bob-katter.css" crc="4075993041" ref="bob-katter"/>
     <file name="10.css" crc="4075993041" ref="10"/>
-    <file name="about.css" crc="29885037" ref="about"/>
+    <file name="about.css" crc="60635755" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
@@ -20,6 +20,11 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:10:bob-katter:about"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:10:bob-katter:about"/>
     <file name="require.js" crc="7928878" ref="index:10:bob-katter:about"/>
+    <file name="webpro.js" crc="4059564322" ref="about"/>
+    <file name="form_check.php" crc="4020933626" ref="about"/>
+    <file name="form_throttle.php" crc="4259590256" ref="about"/>
+    <file name="form_process.php" crc="37464564" ref="about"/>
+    <file name="form-u801.php" crc="3928771858" ref="about"/>
   </folder>
   <folder name="images">
     <file name="monoslice.png" crc="3944974578" seo="true" ref="index:10:bob-katter:about">
@@ -29,8 +34,8 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4154075533" seo="true" mt="1541632988974" redirect="true"/>
-  <file name="10.html" crc="307096106" seo="true" mt="1541632988974" redirect="true"/>
-  <file name="bob-katter.html" crc="4138638543" seo="true" mt="1541632988974" redirect="true"/>
-  <file name="about.html" crc="3814439037" seo="true" mt="1541632988974" redirect="true"/>
+  <file name="index.html" crc="3872963596" seo="true" mt="1541634023890" redirect="true"/>
+  <file name="10.html" crc="4170841376" seo="true" mt="1541633988048" redirect="true"/>
+  <file name="bob-katter.html" crc="4058851458" seo="true" mt="1541633988048" redirect="true"/>
+  <file name="about.html" crc="4155559060" seo="true" mt="1541633988048" redirect="true"/>
 </manifest>
