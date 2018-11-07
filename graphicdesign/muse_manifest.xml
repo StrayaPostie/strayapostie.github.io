@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541634029918">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541634130993">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3918048718" ref="index:bob-katter:10:about"/>
@@ -34,8 +34,8 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3872963596" seo="true" mt="1541634023890" redirect="true"/>
-  <file name="10.html" crc="4170841376" seo="true" mt="1541633988048" redirect="true"/>
-  <file name="bob-katter.html" crc="4058851458" seo="true" mt="1541633988048" redirect="true"/>
-  <file name="about.html" crc="4155559060" seo="true" mt="1541633988048" redirect="true"/>
+  <file name="index.html" crc="3872963596" seo="true" mt="1541634110906" redirect="true"/>
+  <file name="10.html" crc="4170841376" seo="true" mt="1541634110906" redirect="true"/>
+  <file name="bob-katter.html" crc="4058851458" seo="true" mt="1541634110906" redirect="true"/>
+  <file name="about.html" crc="4155559060" seo="true" mt="1541634110906" redirect="true"/>
 </manifest>
