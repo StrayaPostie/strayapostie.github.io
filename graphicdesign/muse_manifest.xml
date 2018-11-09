@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541732001089">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541733144164">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4113857168" ref="bob-katter:10:about"/>
-    <file name="index.css" crc="127566998" ref="index"/>
-    <file name="bob-katter.css" crc="3843987543" ref="bob-katter"/>
-    <file name="10.css" crc="3843987543" ref="10"/>
-    <file name="about.css" crc="431623909" ref="about"/>
+    <file name="index.css" crc="392866989" ref="index"/>
+    <file name="bob-katter.css" crc="7673193" ref="bob-katter"/>
+    <file name="10.css" crc="3953229988" ref="10"/>
+    <file name="about.css" crc="102086820" ref="about"/>
     <file name="master_home-master.css" crc="211388331" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -32,15 +32,15 @@
     <file name="monoslice.png" crc="3944974578" seo="true" ref="index:10:bob-katter:about">
       <caption webpage="10" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="bob-katter" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="wallhaven-711004.jpg" crc="473562273" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="316281622" seo="true" mt="1541635931245" redirect="true"/>
-  <file name="10.html" crc="3785707470" seo="true" mt="1541731906656" redirect="true"/>
-  <file name="bob-katter.html" crc="81783696" seo="true" mt="1541731906656" redirect="true"/>
-  <file name="about.html" crc="516080096" seo="true" mt="1541731918015" redirect="true"/>
+  <file name="index.html" crc="299479235" seo="true" mt="1541733135736" redirect="true"/>
+  <file name="10.html" crc="173730777" seo="true" mt="1541733013898" redirect="true"/>
+  <file name="bob-katter.html" crc="437717931" seo="true" mt="1541733013898" redirect="true"/>
+  <file name="about.html" crc="4090650169" seo="true" mt="1541733013898" redirect="true"/>
 </manifest>

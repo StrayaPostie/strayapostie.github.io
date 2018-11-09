@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://strayapostie.github.io/index.html</loc>
+    <loc>http://iMagazine.com/index.html</loc>
     <lastmod>2018-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://strayapostie.github.io/images/monoslice.png</image:loc>
+      <image:loc>http://iMagazine.com/images/dsc_0195-crop-u464.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://strayapostie.github.io/10.html</loc>
+    <loc>http://iMagazine.com/gallery.html</loc>
     <lastmod>2018-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://strayapostie.github.io/images/monoslice.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://strayapostie.github.io/bob-katter.html</loc>
+    <loc>http://iMagazine.com/history.html</loc>
     <lastmod>2018-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://strayapostie.github.io/images/monoslice.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://strayapostie.github.io/about.html</loc>
+    <loc>http://iMagazine.com/artwork.html</loc>
     <lastmod>2018-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://strayapostie.github.io/images/monoslice.png</image:loc>
-    </image:image>
   </url>
 </urlset>

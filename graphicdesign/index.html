@@ -18,13 +18,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_home-master.css?crc=211388331"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=127566998" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=392866989" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
     <!--custom head HTML-->
   <style type="text/css"> html,body{overflow-x:hidden;}       // use this to hide the horizontal scrollbar, to hide the vertical scrollbar {overflow-y:hidden} ; to hide all scrollbar {overflow:hidden;}  </style>
+  <!--HTML Widget code-->
+  
+<style>
+.u973 { position: absolute; top: 70px; width: 100%; text-align: center; font-size: 3em; animation: fadeUpIn 3s; -webkit-animation: fadeUpIn 3s; /* Safari and Chrome */ }
+ @-webkit-keyframes fadeUpIn /* Safari and Chrome */ {
+ from {
+opacity:0;
+top:150px;
+}
+ to {
+opacity:1;
+top: 70px;
+}
+}
+</style>
+
   <!--/*
 
 */
@@ -57,9 +73,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>NETSCAPE</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="u761-6" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p>INSERT TEXT</p>
-     <p>HERE</p>
+    <div class="size_fixed colelem" id="u973" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- custom html -->
+     
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+<div class="u973">INSERT TEXT HERE</div>
+
     </div>
     <a class="nonblock nontext Button shadow rounded-corners clearfix colelem" id="buttonu794" href="about.html" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box --><div class="clearfix grpelem" id="u795-4"><!-- content --><p>Click to Enter</p></div></a>
    </div>
@@ -76,6 +94,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
@@ -103,5 +128,9 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=4286661555" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+		
    </body>
 </html>
