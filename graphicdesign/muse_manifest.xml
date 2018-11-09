@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541634130993">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541732001089">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3918048718" ref="index:bob-katter:10:about"/>
-    <file name="index.css" crc="4223532814" ref="index"/>
-    <file name="bob-katter.css" crc="4075993041" ref="bob-katter"/>
-    <file name="10.css" crc="4075993041" ref="10"/>
-    <file name="about.css" crc="60635755" ref="about"/>
+    <file name="master_a-master.css" crc="4113857168" ref="bob-katter:10:about"/>
+    <file name="index.css" crc="127566998" ref="index"/>
+    <file name="bob-katter.css" crc="3843987543" ref="bob-katter"/>
+    <file name="10.css" crc="3843987543" ref="10"/>
+    <file name="about.css" crc="431623909" ref="about"/>
+    <file name="master_home-master.css" crc="211388331" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
@@ -25,17 +26,21 @@
     <file name="form_throttle.php" crc="4259590256" ref="about"/>
     <file name="form_process.php" crc="37464564" ref="about"/>
     <file name="form-u801.php" crc="3928771858" ref="about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="monoslice.png" crc="3944974578" seo="true" ref="index:10:bob-katter:about">
       <caption webpage="10" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="bob-katter" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="bob-katter" alt=""/>
+    </file>
+    <file name="wallhaven-711004.jpg" crc="473562273" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3872963596" seo="true" mt="1541634110906" redirect="true"/>
-  <file name="10.html" crc="4170841376" seo="true" mt="1541634110906" redirect="true"/>
-  <file name="bob-katter.html" crc="4058851458" seo="true" mt="1541634110906" redirect="true"/>
-  <file name="about.html" crc="4155559060" seo="true" mt="1541634110906" redirect="true"/>
+  <file name="index.html" crc="316281622" seo="true" mt="1541635931245" redirect="true"/>
+  <file name="10.html" crc="3785707470" seo="true" mt="1541731906656" redirect="true"/>
+  <file name="bob-katter.html" crc="81783696" seo="true" mt="1541731906656" redirect="true"/>
+  <file name="about.html" crc="516080096" seo="true" mt="1541731918015" redirect="true"/>
 </manifest>
