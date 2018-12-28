@@ -1,46 +1,70 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1541733144164">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strayapostie.github.io" resolutions="1x" timestamp="1542240644940">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4113857168" ref="bob-katter:10:about"/>
-    <file name="index.css" crc="392866989" ref="index"/>
-    <file name="bob-katter.css" crc="7673193" ref="bob-katter"/>
-    <file name="10.css" crc="3953229988" ref="10"/>
-    <file name="about.css" crc="102086820" ref="about"/>
-    <file name="master_home-master.css" crc="211388331" ref="index"/>
+    <file name="master_a-master.css" crc="286988774" ref="about:video-resources:help"/>
+    <file name="index.css" crc="68196528" ref="index"/>
+    <file name="about.css" crc="225257203" ref="about"/>
+    <file name="master_home-master.css" crc="4181510968" ref="index:untitled-5"/>
+    <file name="video-resources.css" crc="333139595" ref="video-resources"/>
+    <file name="untitled-5.css" crc="44282096" ref="untitled-5"/>
+    <file name="help.css" crc="362724261" ref="help"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaneue-bold-02.woff" crc="4196617818"/>
     <file name="helveticaneue-bold-02.eot" crc="4294638822"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:10:bob-katter:about"/>
-    <file name="museutils.js" crc="340535759" ref="index:10:bob-katter:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:10:bob-katter:about"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:10:bob-katter:about"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:10:bob-katter:about"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:10:bob-katter:about"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:10:bob-katter:about"/>
-    <file name="require.js" crc="7928878" ref="index:10:bob-katter:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:video-resources:help:untitled-5"/>
+    <file name="require.js" crc="7928878" ref="index:about:video-resources:help:untitled-5"/>
     <file name="webpro.js" crc="4059564322" ref="about"/>
     <file name="form_check.php" crc="4020933626" ref="about"/>
     <file name="form_throttle.php" crc="4259590256" ref="about"/>
     <file name="form_process.php" crc="37464564" ref="about"/>
     <file name="form-u801.php" crc="3928771858" ref="about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:untitled-5"/>
   </folder>
   <folder name="images">
-    <file name="monoslice.png" crc="3944974578" seo="true" ref="index:10:bob-katter:about">
+    <file name="monoslice.png" crc="3944974578" seo="true" ref="index:about:video-resources:help:untitled-5">
       <caption webpage="10" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="video-resources" alt=""/>
       <caption webpage="bob-katter" alt=""/>
       <caption webpage="about" alt=""/>
-    </file>
-    <file name="wallhaven-711004.jpg" crc="473562273" ref="index">
+      <caption webpage="work" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="wallhaven-711004.jpg" crc="473562273" ref="index:untitled-5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="top.png" crc="3930777841" seo="true" ref="video-resources:help:about">
+      <caption webpage="10" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="screen shot 2018-11-13 at 13118 pm.jpg" crc="271864458" ref="video-resources">
+      <caption webpage="video-resources" alt=""/>
+    </file>
+    <file name="screen shot 2018-11-15 at 103721 am.jpg" crc="323236550" ref="video-resources">
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
+      <caption webpage="video-resources" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="299479235" seo="true" mt="1541733135736" redirect="true"/>
-  <file name="10.html" crc="173730777" seo="true" mt="1541733013898" redirect="true"/>
-  <file name="bob-katter.html" crc="437717931" seo="true" mt="1541733013898" redirect="true"/>
-  <file name="about.html" crc="4090650169" seo="true" mt="1541733013898" redirect="true"/>
+  <file name="index.html" crc="174895387" seo="true" mt="1542075017034" redirect="true"/>
+  <file name="about.html" crc="4006415578" seo="true" mt="1542240639515" redirect="true"/>
+  <file name="video-resources.html" crc="4190305716" seo="true" mt="1542240110005" redirect="true"/>
+  <file name="help.html" crc="34955411" seo="true" mt="1542240110005" redirect="true"/>
+  <file name="untitled-5.html" crc="3864788342" seo="true" mt="1542075017034" redirect="true"/>
 </manifest>
